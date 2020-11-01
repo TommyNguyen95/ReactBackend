@@ -1,0 +1,24 @@
+{
+  "name": "reactbackend",
+  "version": "1.0.0",
+  "description": "ReactExpress",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyNguyen95/ReactBackend.git"
+  },
+  "author": "Tommy Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TommyNguyen95/ReactBackend/issues"
+  },
+  "homepage": "https://github.com/TommyNguyen95/ReactBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
